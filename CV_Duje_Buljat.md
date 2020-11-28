@@ -65,7 +65,7 @@
 ## Digitalne vještine
 
 Uredsko poslovanje | Osnove programskih jezika | Sustavi za verzioniranje i suradnički rad
-- | - | - | -
+ | - | - | -
 Word | Python | Git
 Excel | C# |  Github
 PowerPoint | | Google Drive
